@@ -1,0 +1,12 @@
+<svg id="Группа_1" data-name="Группа 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.969" height="64" viewBox="0 0 43.969 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #31cf31;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <image id="Слой_1" data-name="Слой 1" x="5.969" y="32" width="22" height="28" xlink:href="data:img/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAcCAQAAADPJofWAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIAAAAJcEhZcwAALiMAAC4jAXilP3YAAAAHdElNRQfiBQITDQxXyXidAAABR0lEQVQ4y42TPy+DURSHn/emaKqWkmik0TA13Yh0YrEYOlgYDCY+gMEiIT5AI2Iw9BOYLELSSEhErAYLETGoJkJCIlSL+hmaqv553/c+d7k3eXJycu75IYR6taeSTrSuIeF+EApoUzWuNestp/SuOo9KusudyqqRY426yX3Kq5lbrSnaTk6orFYqutC8OprlKblR1o4GG+UFeXGqeF02RPBinG26aw9DDG/SrPzdtS8/irWPQme+slSoTt4QxJ8BtugBQ5eFDOOsYgyOlQyLTBg+LOUIM4a8pQwpw5G1nERxPVsMT5JkuCdrXVsopkurwp/VfZpuCJYbDwaAAzIWTVzVdjWkDZ+6FS3XcxDUkl485F2F/2fM0ZhyKrURf3SoqHDU2JchzRwj9BPC4ZsvihTIkeGVFhkcwiSYZJgAbzxxwzl3lAB+ASyvUpBX7Ss8AAAAAElFTkSuQmCC"/>
+  <path id="Forma_1" data-name="Forma 1" class="cls-1" d="M36.7,25.751C30.421,17.63,24.465,12.146,23.933,1.388A0.954,0.954,0,0,0,23.614.65a0.758,0.758,0,0,0-1.17-.527,1.111,1.111,0,0,0-1.17,1.16c-13.4,14.344-36.061,50.73-7.553,61.171,12.871,4.746,27.444-1.687,30-15.609C45.1,39.356,41.165,31.446,36.7,25.751ZM13.827,55.7c-3.085-1.793-5-5.379-5.957-8.543a14.481,14.481,0,0,1-.532-4.746A69.742,69.742,0,0,1,9.785,34.4a14.729,14.729,0,0,0,3.085,6.328c3.4,3.691,10.318,5.906,12.233,10.547,1.17,2.848-3.4,5.273-5.319,5.906C17.763,57.813,15.529,56.758,13.827,55.7Z" transform="translate(-0.031)"/>
+</svg>
